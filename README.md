@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi there 👋 </h3> 
 <h1 align="center">I'm Hossam</h1>
-<h2 align="center">Software Tester</h2>
+<h2 align="center">a Software Tester</h2>
 <!--
 **SEREPie/SEREPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
