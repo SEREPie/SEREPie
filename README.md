@@ -6,7 +6,7 @@
 
 
 ## 💫 About Me:
-🎓 Bachelor's degree in Mechatronics Engineering.<br>🌟 Certified Software Tester (ISTQB CTFL, CTFL-MAT).<br>🔧 Experienced in manual testing, test case design, and bug reporting.<br>💻 Skilled in Java-based automation scripting for Web testing using Selenium WebDriver, TestNG, and POM.<br>🚀 Proficient in API testing with Postman and Rest Assured, and Mobile testing automation using Appium.<br>🏆 Identified 53 approved bugs in Test IO, awarded Great Tester trophy for high performance.<br>🛠️ Additional skills: TestNG, POM, Agile, IntelliJ, SQL server, Jira, C/C++, HTML/CSS, Linux.<br>🎮 Gamer and video editor with one year of video editing experience.
+🌟 Certified Software Tester (ISTQB CTFL, CTFL-MAT).<br>🔧 Experienced in manual testing, test case design, and bug reporting.<br>💻 Skilled in Java-based automation scripting for Web testing using Selenium WebDriver, TestNG, and POM.<br>🚀 Proficient in API testing with Postman and Rest Assured, and Mobile testing automation using Appium.<br>🏆 Identified 53 approved bugs in Test IO, awarded Great Tester trophy for high performance.<br>🛠️ Additional skills: TestNG, POM, Agile, IntelliJ, SQL server, Jira, C/C++, HTML/CSS, Linux.<br>🎮 Gamer and video editor with one year of video editing experience.
 <br>
 <br>
 <div >
